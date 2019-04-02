@@ -1,6 +1,6 @@
-# Kubernetes Challange Series
+# Kubernetes Challenge Series
 
-This repo contains my answers to the Kubernetes Challange Series from the Udemy course:  
+This repo contains my answers to the Kubernetes Challenge Series from the Udemy course:  
 [Kubernetes Certification Course with Practice Tests](https://www.udemy.com/certified-kubernetes-application-developer).
 
 ## Challenge - 1 - Wordpress MySQL 
